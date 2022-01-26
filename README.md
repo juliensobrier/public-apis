@@ -1,5 +1,7 @@
 # Public APIs [![Run tests](https://github.com/public-apis/public-apis/workflows/Run%20tests/badge.svg)](https://github.com/public-apis/public-apis/actions?query=workflow%3A%22Run+tests%22) [![Validate links](https://github.com/public-apis/public-apis/workflows/Validate%20links/badge.svg?branch=master)](https://github.com/public-apis/public-apis/actions?query=workflow%3A%22Validate+links%22)
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/1f6adf9b-914a-40c8-a324-d73154205b81.svg?orgId=234270307752)](https://app.soluble.cloud/repos/details/github.com/juliensobrier/public-apis?orgId=234270307752)  
+
 A collective list of free APIs for use in software and web development.
 
 A public API for this project can be found [here](https://github.com/davemachado/public-api)!
